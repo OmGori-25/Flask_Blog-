@@ -1,0 +1,22 @@
+{
+    "params":{
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/codingthunder",
+        "prod_uri":"mysql://root:@localhost/codingthunder",
+        "fb_url":"https://facebook.com/codingthunder",
+        "tw_url":"https://twitter.com/codingthunder",
+        "gh_url":"https://github.com/codingthunder",
+        "title":"TheCodingThunder",
+        "tagline":"A Blog liked by Programmers",
+        "mail_user":"om.gori16196@sakec.ac.in",
+        "mail_password":"Ramram@99",
+        "about_content": "This website provides the platform for every hardcore programmer/coder to share the qoutes related to programming. Users can also explore various quotes provided by other programmers and feel inspire to initiate the journey of coding. Please do fill the contact form so that we can notify you via gmail whenever new quote is posted in the website..",
+        "no_of_posts": 2,
+        "login_image":"login_svg",
+        "admin_user":"omgori@gmail.com",
+        "admin_pass":"omg25",
+        "upload_location":"C:\\Users\\OM\\Flask tut/static"
+        
+    }
+    
+}
